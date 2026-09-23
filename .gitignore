@@ -1,0 +1,21 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+
+# Personal/Temporary Data (NEVER COMMIT SENSITIVE DATA)
+*.edb
+*.edb-wal
+*.edb-shm
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+*.csv
+*.xlsx
+recovered_sqlite/
+temp_*/
+
+# Prompt files (Local only)
+ONE_SHOT_PROMPT.md
