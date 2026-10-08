@@ -36,7 +36,7 @@ Windows 카카오톡(x64)의 대화 DB를 복호화하고 조회하는 독립 �
   "kakao_running": true,
   "process_id": 23300,
   "executable": "C:\\Program Files\\Kakao\\KakaoTalk\\KakaoTalk.exe",
-  "executable_version": "26.8.1.5315",
+  "executable_version": "26.8.2.5324",
   "supported": true
 }
 ```
